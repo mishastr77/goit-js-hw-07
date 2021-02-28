@@ -1,3 +1,12 @@
+ul {
+    list-style: none;
+  
+    margin: 0;
+    padding: 0;
+  }
+  article {
+      margin: 30px;
+  }
 .gallery {
   display: flexbox;
   margin: 30px;
